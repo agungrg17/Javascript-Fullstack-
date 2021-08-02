@@ -1,2 +1,2 @@
-# Javascript-Fulstack-
+# Javascript-Fullstack-
 Repository JS Fullstack Camp404
